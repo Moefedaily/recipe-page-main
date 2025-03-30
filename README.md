@@ -25,8 +25,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ![Mobile View](assets/screenshots/Mobile-Recipe.jpg)
 
-_Note: To take screenshots, use Firefox browser and right-click to select "Take a Screenshot", or use tools like [FireShot](https://getfireshot.com/) to capture the full page. Store your screenshots in a "screenshots" folder within your project._
-
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
